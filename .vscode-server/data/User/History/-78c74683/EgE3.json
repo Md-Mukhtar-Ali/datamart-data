@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "remote.SSH.remotePlatform": {
+        "192.168.1.150": "linux",
+        "93.127.131.122": "linux"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.autoClosingBrackets": "always"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "mynode_program",
+  "version": "1.0.0",
+  "description": "this is my node js tutorials",
+  "main": "test.js",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node"
+  },
+  "keywords": [
+    "no",
+    "keywords"
+  ],
+  "author": "md mukhtar ali",
+  "license": "ISC"
+}
